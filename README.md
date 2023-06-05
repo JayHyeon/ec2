@@ -12,4 +12,5 @@ sudo swapon /swapfile
 sudo swapon -s
 ### fstab 편집 -> 재부팅시에 활성화
 sudo vi /etc/fstab
+
 /swapfile swap swap defaults 0 0
