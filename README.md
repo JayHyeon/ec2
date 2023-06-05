@@ -1,4 +1,7 @@
 # ec2
+ec2에서 필요에 따라 설치하는 기능들.
+
+
 ## swap file
 ### swap file 생성
 sudo dd if=/dev/zero of=/swapfile bs=128M count=32
