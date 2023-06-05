@@ -1,5 +1,5 @@
 # ec2
-swap file
+## swap file
 ### swap file 생성
 sudo dd if=/dev/zero of=/swapfile bs=128M count=32
 ### swapfile 권한
